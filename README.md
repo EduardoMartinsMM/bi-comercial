@@ -5,6 +5,7 @@ Projeto de Business Intelligence voltado para a área comercial, com foco em fat
 rentabilidade, controle de estoque e gestão de clientes.
 
 ⚠️ Todos os dados utilizados são fictícios e foram simulados com base em um cenário real de negócio.
+Por questões de confidencialidade, as bases de dados não estão disponíveis neste repositório.
 
 ---
 
