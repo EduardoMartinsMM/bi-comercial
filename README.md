@@ -70,12 +70,12 @@ Apoiar a tomada de decisão comercial por meio da análise de:
     <td align="center">
       <img src="https://github.com/user-attachments/assets/c9c10653-f429-4aa5-9263-2a5fd8a44e35" width="420"/>
       <br/>
-      <strong>KPI | Expedição</strong>
+      <strong>KPI | Faturamento</strong>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d4755091-8db4-4454-9c72-ae66dff8605d" width="420"/>
       <br/>
-      <strong>KPI | Estoque</strong>
+      <strong>KPI | Devoluções</strong>
     </td>
   </tr>
 
@@ -83,12 +83,12 @@ Apoiar a tomada de decisão comercial por meio da análise de:
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ba2f650b-f3c8-43ef-ae9c-85bf1fa7df2e" width="420"/>
       <br/>
-      <strong>KPI | Abate</strong>
+      <strong>KPI | Idade Estoque</strong>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ec55b2eb-4f65-4d72-8ed1-6bf100bbd40a" width="420"/>
       <br/>
-      <strong>KPI | Quebra de Frio</strong>
+      <strong>KPI | Margem por pedido</strong>
     </td>
   </tr>
 
@@ -96,12 +96,12 @@ Apoiar a tomada de decisão comercial por meio da análise de:
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7c662f1c-92c3-4b64-8569-ccf072e2f18f" width="420"/>
       <br/>
-      <strong>KPI | Rendimento de Miúdos</strong>
+      <strong>KPI | Clientes em atraso</strong>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/93379421-da50-4086-8c65-f2ce4e9d1063" width="420"/>
       <br/>
-      <strong>KPI | Produção</strong>
+      <strong>KPI | Estoque</strong>
     </td>
   </tr>
 </table>
