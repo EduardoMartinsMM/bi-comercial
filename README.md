@@ -81,7 +81,7 @@ Apoiar a tomada de decisão comercial por meio da análise de:
 
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ba2f650b-f3c8-43ef-ae9c-85bf1fa7df2e" width="420"/>
+      <img src="https://github.com/user-attachments/assets/837d0ca1-c902-44ec-971e-931c9f3322f5" width="420"/>
       <br/>
       <strong>KPI | Idade Estoque</strong>
     </td>
