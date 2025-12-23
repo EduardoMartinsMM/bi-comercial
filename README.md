@@ -109,15 +109,6 @@ Apoiar a tomada de decisão comercial por meio da análise de:
 </div>
 
 
-https://github.com/user-attachments/assets/c9c10653-f429-4aa5-9263-2a5fd8a44e35
-https://github.com/user-attachments/assets/d4755091-8db4-4454-9c72-ae66dff8605d
-https://github.com/user-attachments/assets/ba2f650b-f3c8-43ef-ae9c-85bf1fa7df2e
-https://github.com/user-attachments/assets/ec55b2eb-4f65-4d72-8ed1-6bf100bbd40a
-https://github.com/user-attachments/assets/7c662f1c-92c3-4b64-8569-ccf072e2f18f
-https://github.com/user-attachments/assets/93379421-da50-4086-8c65-f2ce4e9d1063
-
-
-
 ## 🔗 Dashboard Interativo
 
 👉 [Clique aqui para acessar o indicador no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmI4YTRiN2EtYmVhNy00YzkwLWIwZmItYmMyY2ViYWU3ZDU2IiwidCI6IjBmOGM0NmY1LWVlMDQtNDZjMy04ZDBlLTZjMWIxYjNkY2RhNyJ9)
