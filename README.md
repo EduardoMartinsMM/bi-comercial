@@ -111,7 +111,7 @@ Apoiar a tomada de decisão comercial por meio da análise de:
 
 ## 🔗 Dashboard Interativo
 
-👉 [Clique aqui para acessar o indicador no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmI4YTRiN2EtYmVhNy00YzkwLWIwZmItYmMyY2ViYWU3ZDU2IiwidCI6IjBmOGM0NmY1LWVlMDQtNDZjMy04ZDBlLTZjMWIxYjNkY2RhNyJ9)
+👉 [Clique aqui para acessar o indicador no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTdkNzYwZDEtMzc4My00MDhkLWEwMDEtMjY2MjQ3MGI5NDJjIiwidCI6IjBmOGM0NmY1LWVlMDQtNDZjMy04ZDBlLTZjMWIxYjNkY2RhNyJ9)
 
 
 📌 Considerações Finais
