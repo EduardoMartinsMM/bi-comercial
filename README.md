@@ -1,4 +1,3 @@
-# bi-comercial
 # 📈 BI Comercial – Vendas, Margem e Estoque
 
 ## 📌 Contexto
